@@ -1,0 +1,13 @@
+{
+  "data" : {
+    "dossier" : {
+      "id" : "78b1d736-1d52-4aed-ac5d-8e54070a7238"
+    },
+    "process" : {
+      "status" : "pending",
+      "id" : "94e851f6-b4a7-4631-8816-65655a6aa677",
+      "provider" : "ONFIDO",
+      "authorization" : "eyJhbGciOiJFUzUxMiJ9.eyJleHAiOjE2MzIzMDIyODQsInBheWxvYWQiOnsiYXBwIjoiZmFjY2E0ZDktNTdjMC00MzVlLWE5ZTAtYWVlNGZiOGQzOTYwIiwiY2xpZW50X3V1aWQiOiJlNWNhNjMzNC02ZjNlLTRlMjctOTIxNy1mYTJjZDczMWRjM2YiLCJhcHBsaWNhdGlvbl9pZCI6ImNvbS51bmlmaWVkcG9zdC1wYXltZW50cy5teWlkLnRlc3QiLCJpc19zYW5kYm94IjpmYWxzZX0sInNhcmRpbmVfc2Vzc2lvbiI6IjY0YzdkOTY1LWI1MGUtNDM0NS05NmMwLTVmMmI1NGQ1MTcwZCIsInV1aWQiOiJtMTdfUTFMXzN0SSIsInVybHMiOnsidGVsZXBob255X3VybCI6Imh0dHBzOi8vdGVsZXBob255Lm9uZmlkby5jb20iLCJkZXRlY3RfZG9jdW1lbnRfdXJsIjoiaHR0cHM6Ly9zZGsub25maWRvLmNvbSIsInN5bmNfdXJsIjoiaHR0cHM6Ly9zeW5jLm9uZmlkby5jb20iLCJob3N0ZWRfc2RrX3VybCI6Imh0dHBzOi8vaWQub25maWRvLmNvbSIsImF1dGhfdXJsIjoiaHR0cHM6Ly9hcGkub25maWRvLmNvbSIsIm9uZmlkb19hcGlfdXJsIjoiaHR0cHM6Ly9hcGkub25maWRvLmNvbSJ9fQ.MIGHAkIBqpwvnhsEc5SOTLnUs6L-t8wSq_90HqqJJI0yxHUeLaPVqKrHDYxLWT4n96jwxU5pv4wfs8FfBn8QVNHbJ5oXhMMCQQf9gbQytbD-UAvWaRGGRjktJbQO5_rO0wZDlEtrKkr3fbPWiIf-OdzHDPeDR_tKq_lJRQAiln0VhE6v1BC4CGf1"
+    }
+  }
+}
